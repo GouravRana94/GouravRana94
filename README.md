@@ -64,9 +64,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gouravrana94&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
----
-
-### 🐍 Watch My Contributions Snake  
+--- 
 <p align="center">
-  <img src="https://github.com/gouravrana94/gouravrana94/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  Thanks For Visiting My Profile
 </p>
